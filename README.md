@@ -1,4 +1,4 @@
-Absolutely buddy 😎🚗 Since this is the project we built with the **Udacity Simulator + NVIDIA-inspired CNN**, here's a polished README designed to look good on GitHub while still accurately representing your project.
+
 
 # 🚗 Self-Driving Car using CNN
 
