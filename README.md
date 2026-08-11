@@ -1,4 +1,4 @@
-
+7
 
 # 🚗 Self-Driving Car using CNN
 
@@ -418,15 +418,6 @@ The approach demonstrates how a neural network can learn a direct mapping from r
 
 ---
 
-## 👥 Contributors
-
-* **Devyani Raghatate**
-* **Devansh Peshne**
-* **Atharva Dhande**
-* **Jayesh Kumbhare**
-* **Chetan Sontakke**
-
----
 
 ## ⭐ Acknowledgements
 
